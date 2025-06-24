@@ -1,0 +1,1298 @@
+[
+  {
+    "name": "London",
+    "country": "United Kingdom",
+    "tags": ["culture", "history", "urban"],
+    "season": ["spring", "summer", "autumn"],
+    "climate": "temperate",
+    "budget_level": "high",
+    "highlights": ["British Museum", "Tower of London", "West End"]
+  },
+  {
+    "name": "Bali",
+    "country": "Indonesia",
+    "tags": ["beach", "nature", "spiritual"],
+    "season": ["spring", "autumn"],
+    "climate": "tropical",
+    "budget_level": "mid",
+    "highlights": ["Ubud", "Tegallalang Rice Terraces", "Seminyak Beach"]
+  },
+  {
+    "name": "Dubai",
+    "country": "United Arab Emirates",
+    "tags": ["luxury", "desert", "modern"],
+    "season": ["autumn", "winter"],
+    "climate": "desert",
+    "budget_level": "high",
+    "highlights": ["Burj Khalifa", "Desert Safari", "Dubai Mall"]
+  },
+  {
+    "name": "Sicily",
+    "country": "Italy",
+    "tags": ["history", "beach", "food"],
+    "season": ["spring", "summer", "autumn"],
+    "climate": "Mediterranean",
+    "budget_level": "mid",
+    "highlights": ["Mount Etna", "Valley of the Temples", "Palermo"]
+  },
+  {
+    "name": "Paris",
+    "country": "France",
+    "tags": ["romance", "art", "culture"],
+    "season": ["spring", "summer", "autumn"],
+    "climate": "temperate",
+    "budget_level": "high",
+    "highlights": ["Eiffel Tower", "Louvre", "Seine River Cruise"]
+  },
+  {
+    "name": "Rome",
+    "country": "Italy",
+    "tags": ["ancient", "religion", "food"],
+    "season": ["spring", "autumn"],
+    "climate": "Mediterranean",
+    "budget_level": "mid",
+    "highlights": ["Colosseum", "Vatican City", "Pantheon"]
+  },
+  {
+    "name": "Hanoi",
+    "country": "Vietnam",
+    "tags": ["street food", "heritage", "culture"],
+    "season": ["spring", "autumn"],
+    "climate": "humid subtropical",
+    "budget_level": "low",
+    "highlights": ["Old Quarter", "Hoan Kiem Lake", "Temple of Literature"]
+  },
+  {
+    "name": "Marrakech",
+    "country": "Morocco",
+    "tags": ["market", "architecture", "culture"],
+    "season": ["spring", "autumn", "winter"],
+    "climate": "semi-arid",
+    "budget_level": "mid",
+    "highlights": ["Jemaa el-Fnaa", "Majorelle Garden", "Medina"]
+  },
+  {
+    "name": "Crete",
+    "country": "Greece",
+    "tags": ["beach", "history", "nature"],
+    "season": ["spring", "summer", "autumn"],
+    "climate": "Mediterranean",
+    "budget_level": "mid",
+    "highlights": ["Knossos Palace", "Elafonisi Beach", "Samaria Gorge"]
+  },
+  {
+    "name": "Bangkok",
+    "country": "Thailand",
+    "tags": ["city", "temples", "nightlife"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "low",
+    "highlights": ["Grand Palace", "Chatuchak Market", "Wat Arun"]
+  },
+  {
+    "name": "Hoi An",
+    "country": "Vietnam",
+    "tags": ["heritage", "beach", "culture"],
+    "season": ["spring", "autumn"],
+    "climate": "tropical",
+    "budget_level": "low",
+    "highlights": ["Ancient Town", "Japanese Covered Bridge", "Cua Dai Beach"]
+  },
+  {
+    "name": "Barcelona",
+    "country": "Spain",
+    "tags": ["architecture", "beach", "art"],
+    "season": ["spring", "summer", "autumn"],
+    "climate": "Mediterranean",
+    "budget_level": "mid",
+    "highlights": ["Sagrada Família", "Park Güell", "Gothic Quarter"]
+  },
+  {
+    "name": "Cusco",
+    "country": "Peru",
+    "tags": ["history", "mountains", "culture"],
+    "season": ["dry season", "spring", "autumn"],
+    "climate": "highland",
+    "budget_level": "mid",
+    "highlights": ["Machu Picchu (access point)", "Sacsayhuamán", "Sacred Valley"]
+  },
+  {
+    "name": "Siem Reap",
+    "country": "Cambodia",
+    "tags": ["temples", "heritage", "culture"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "low",
+    "highlights": ["Angkor Wat", "Bayon Temple", "Pub Street"]
+  },
+  {
+    "name": "Lisbon",
+    "country": "Portugal",
+    "tags": ["culture", "history", "food"],
+    "season": ["spring", "summer", "autumn"],
+    "climate": "Mediterranean",
+    "budget_level": "mid",
+    "highlights": ["Belém Tower", "Alfama", "Tram 28"]
+  },
+  {
+    "name": "Phuket",
+    "country": "Thailand",
+    "tags": ["beach", "resort", "island"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "mid",
+    "highlights": ["Patong Beach", "Big Buddha", "Phi Phi Islands"]
+  },
+  {
+    "name": "Istanbul",
+    "country": "Turkey",
+    "tags": ["history", "culture", "architecture"],
+    "season": ["spring", "autumn"],
+    "climate": "temperate",
+    "budget_level": "mid",
+    "highlights": ["Hagia Sophia", "Blue Mosque", "Grand Bazaar"]
+  },
+  {
+    "name": "New York City",
+    "country": "United States",
+    "tags": ["city", "culture", "food", "nightlife"],
+    "season": ["spring", "autumn"],
+    "climate": "humid subtropical",
+    "budget_level": "high",
+    "highlights": ["Central Park", "Statue of Liberty", "Broadway"]
+  },
+  {
+    "name": "Majorca",
+    "country": "Spain",
+    "tags": ["beach", "resort", "nature"],
+    "season": ["spring", "summer", "autumn"],
+    "climate": "Mediterranean",
+    "budget_level": "mid",
+    "highlights": ["Serra de Tramuntana", "Palma Cathedral", "Cala d'Or"]
+  },
+  {
+    "name": "Edinburgh",
+    "country": "United Kingdom",
+    "tags": ["history", "festival", "architecture"],
+    "season": ["summer", "autumn"],
+    "climate": "temperate oceanic",
+    "budget_level": "mid",
+    "highlights": ["Edinburgh Castle", "Royal Mile", "Fringe Festival"]
+  },
+  {
+    "name": "Kathmandu",
+    "country": "Nepal",
+    "tags": ["mountains", "heritage", "spirituality"],
+    "season": ["spring", "autumn"],
+    "climate": "subtropical highland",
+    "budget_level": "low",
+    "highlights": ["Swayambhunath", "Durbar Square", "Boudhanath"]
+  },
+  {
+    "name": "New Delhi",
+    "country": "India",
+    "tags": ["history", "culture", "markets"],
+    "season": ["winter", "spring"],
+    "climate": "humid subtropical",
+    "budget_level": "low",
+    "highlights": ["Red Fort", "Humayun's Tomb", "Chandni Chowk"]
+  },
+  {
+    "name": "Maldives",
+    "country": "Maldives",
+    "tags": ["beach", "luxury", "diving"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "high",
+    "highlights": ["Overwater Villas", "Snorkeling", "Male City"]
+  },
+  {
+    "name": "Cancun",
+    "country": "Mexico",
+    "tags": ["beach", "resort", "nightlife"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "mid",
+    "highlights": ["Hotel Zone", "Isla Mujeres", "Chichen Itza (day trip)"]
+  },
+  {
+    "name": "Mauritius",
+    "country": "Mauritius",
+    "tags": ["beach", "luxury", "nature"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "high",
+    "highlights": ["Chamarel Seven Colored Earth", "Le Morne", "Port Louis"]
+  },
+  {
+    "name": "Zanzibar Island",
+    "country": "Tanzania",
+    "tags": ["beach", "history", "culture"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "mid",
+    "highlights": ["Stone Town", "Nungwi Beach", "Spice Tour"]
+  },
+  {
+    "name": "Cape Town Central",
+    "country": "South Africa",
+    "tags": ["mountain", "beach", "wine"],
+    "season": ["summer", "autumn"],
+    "climate": "Mediterranean",
+    "budget_level": "mid",
+    "highlights": ["Table Mountain", "Robben Island", "Cape Winelands"]
+  },
+  {
+    "name": "Nairobi",
+    "country": "Kenya",
+    "tags": ["wildlife", "city", "culture"],
+    "season": ["dry season", "winter"],
+    "climate": "subtropical highland",
+    "budget_level": "mid",
+    "highlights": ["Nairobi National Park", "Giraffe Centre", "Karen Blixen Museum"]
+  },
+    {
+    "name": "Victoria Falls",
+    "country": "Zimbabwe",
+    "tags": ["nature", "waterfall", "adventure"],
+    "season": ["dry season", "winter"],
+    "climate": "subtropical",
+    "budget_level": "mid",
+    "highlights": ["Victoria Falls", "Zambezi River", "Helicopter Ride"]
+  },
+  {
+    "name": "Kigali",
+    "country": "Rwanda",
+    "tags": ["culture", "urban", "history"],
+    "season": ["dry season", "summer"],
+    "climate": "temperate highland",
+    "budget_level": "low",
+    "highlights": ["Genocide Memorial", "Nyamirambo", "Kimironko Market"]
+  },
+  {
+    "name": "Praslin Island",
+    "country": "Seychelles",
+    "tags": ["beach", "island", "nature"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "high",
+    "highlights": ["Anse Lazio", "Vallée de Mai", "Anse Georgette"]
+  },
+  {
+    "name": "Livingstone",
+    "country": "Zambia",
+    "tags": ["adventure", "nature", "wildlife"],
+    "season": ["dry season", "spring"],
+    "climate": "tropical savanna",
+    "budget_level": "mid",
+    "highlights": ["Victoria Falls (Zambia side)", "Devil’s Pool", "Zambezi River Cruise"]
+  },
+  {
+    "name": "Ilha do Sal",
+    "country": "Cape Verde",
+    "tags": ["beach", "relaxation", "island"],
+    "season": ["winter", "spring"],
+    "climate": "arid tropical",
+    "budget_level": "mid",
+    "highlights": ["Santa Maria Beach", "Salinas de Pedra de Lume", "Shark Bay"]
+  },
+  {
+    "name": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "tags": ["city", "food", "history"],
+    "season": ["dry season", "winter"],
+    "climate": "tropical",
+    "budget_level": "low",
+    "highlights": ["Ben Thanh Market", "War Remnants Museum", "Cu Chi Tunnels"]
+  },
+  {
+    "name": "Singapore",
+    "country": "Singapore",
+    "tags": ["urban", "food", "clean"],
+    "season": ["winter", "spring"],
+    "climate": "equatorial",
+    "budget_level": "high",
+    "highlights": ["Gardens by the Bay", "Marina Bay Sands", "Hawker Centers"]
+  },
+  {
+    "name": "Jaipur",
+    "country": "India",
+    "tags": ["palaces", "desert", "heritage"],
+    "season": ["winter", "spring"],
+    "climate": "semi-arid",
+    "budget_level": "low",
+    "highlights": ["Amber Fort", "Hawa Mahal", "City Palace"]
+  },
+  {
+    "name": "Chiang Mai",
+    "country": "Thailand",
+    "tags": ["temples", "mountains", "nature"],
+    "season": ["winter", "spring"],
+    "climate": "tropical savanna",
+    "budget_level": "low",
+    "highlights": ["Doi Suthep", "Elephant Nature Park", "Old City"]
+  },
+  {
+    "name": "Kyoto",
+    "country": "Japan",
+    "tags": ["temples", "traditional", "culture"],
+    "season": ["spring", "autumn"],
+    "climate": "temperate",
+    "budget_level": "mid",
+    "highlights": ["Fushimi Inari Shrine", "Arashiyama", "Kinkaku-ji"]
+  },
+  {
+    "name": "Seoul",
+    "country": "South Korea",
+    "tags": ["modern", "palaces", "food"],
+    "season": ["spring", "autumn"],
+    "climate": "continental",
+    "budget_level": "mid",
+    "highlights": ["Gyeongbokgung Palace", "Bukchon Hanok Village", "Myeongdong"]
+  },
+  {
+    "name": "Agra",
+    "country": "India",
+    "tags": ["monument", "heritage", "history"],
+    "season": ["winter", "spring"],
+    "climate": "semi-arid",
+    "budget_level": "low",
+    "highlights": ["Taj Mahal", "Agra Fort", "Mehtab Bagh"]
+  },
+    {
+    "name": "Colombo",
+    "country": "Sri Lanka",
+    "tags": ["city", "heritage", "coastal"],
+    "season": ["winter", "spring"],
+    "climate": "tropical monsoon",
+    "budget_level": "low",
+    "highlights": ["Galle Face Green", "Gangaramaya Temple", "Pettah Market"]
+  },
+  {
+    "name": "Phnom Penh",
+    "country": "Cambodia",
+    "tags": ["history", "culture", "urban"],
+    "season": ["winter", "spring"],
+    "climate": "tropical wet and dry",
+    "budget_level": "low",
+    "highlights": ["Royal Palace", "Killing Fields", "National Museum"]
+  },
+  {
+    "name": "Kuala Lumpur",
+    "country": "Malaysia",
+    "tags": ["city", "modern", "multicultural"],
+    "season": ["winter", "spring"],
+    "climate": "equatorial",
+    "budget_level": "low",
+    "highlights": ["Petronas Towers", "Batu Caves", "Bukit Bintang"]
+  },
+  {
+    "name": "Hong Kong",
+    "country": "China",
+    "tags": ["urban", "skyline", "food"],
+    "season": ["autumn", "winter"],
+    "climate": "subtropical",
+    "budget_level": "high",
+    "highlights": ["Victoria Peak", "Star Ferry", "Temple Street Night Market"]
+  },
+  {
+    "name": "Jakarta",
+    "country": "Indonesia",
+    "tags": ["city", "markets", "urban"],
+    "season": ["dry season", "spring"],
+    "climate": "tropical",
+    "budget_level": "low",
+    "highlights": ["Monas", "Kota Tua", "Ancol Dreamland"]
+  },
+  {
+    "name": "Pokhara",
+    "country": "Nepal",
+    "tags": ["mountains", "lake", "trekking"],
+    "season": ["spring", "autumn"],
+    "climate": "humid subtropical",
+    "budget_level": "low",
+    "highlights": ["Phewa Lake", "World Peace Pagoda", "Sarangkot"]
+  },
+  {
+    "name": "Luzon",
+    "country": "Philippines",
+    "tags": ["island", "nature", "cultural"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "low",
+    "highlights": ["Banaue Rice Terraces", "Manila", "Vigan"]
+  },
+  {
+    "name": "Flores",
+    "country": "Indonesia",
+    "tags": ["island", "nature", "diving"],
+    "season": ["spring", "autumn"],
+    "climate": "tropical savanna",
+    "budget_level": "mid",
+    "highlights": ["Komodo National Park", "Kelimutu Lakes", "Labuan Bajo"]
+  },
+  {
+    "name": "Beijing",
+    "country": "China",
+    "tags": ["history", "imperial", "urban"],
+    "season": ["spring", "autumn"],
+    "climate": "continental",
+    "budget_level": "mid",
+    "highlights": ["Great Wall", "Forbidden City", "Summer Palace"]
+  },
+  {
+    "name": "Aruba",
+    "country": "Aruba",
+    "tags": ["beach", "island", "resort"],
+    "season": ["winter", "spring"],
+    "climate": "tropical marine",
+    "budget_level": "high",
+    "highlights": ["Eagle Beach", "Oranjestad", "Natural Pool"]
+  },
+  {
+    "name": "Cuba",
+    "country": "Cuba",
+    "tags": ["colonial", "music", "beach"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "low",
+    "highlights": ["Havana", "Varadero", "Trinidad"]
+  },
+  {
+    "name": "Dominican Republic",
+    "country": "Dominican Republic",
+    "tags": ["beach", "resort", "nature"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "mid",
+    "highlights": ["Punta Cana", "Santo Domingo", "Samaná"]
+  },
+  {
+    "name": "Puerto Rico",
+    "country": "Puerto Rico",
+    "tags": ["beach", "rainforest", "culture"],
+    "season": ["winter", "spring"],
+    "climate": "tropical marine",
+    "budget_level": "mid",
+    "highlights": ["Old San Juan", "El Yunque", "Culebra Island"]
+  },
+    {
+    "name": "Jamaica",
+    "country": "Jamaica",
+    "tags": ["beach", "music", "culture"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "mid",
+    "highlights": ["Negril", "Dunn’s River Falls", "Blue Mountains"]
+  },
+  {
+    "name": "St Martin / St Maarten",
+    "country": "Netherlands/France",
+    "tags": ["beach", "island", "shopping"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "high",
+    "highlights": ["Maho Beach", "Philipsburg", "Orient Bay"]
+  },
+  {
+    "name": "St. Lucia",
+    "country": "Saint Lucia",
+    "tags": ["beach", "honeymoon", "volcano"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "high",
+    "highlights": ["The Pitons", "Sulphur Springs", "Marigot Bay"]
+  },
+  {
+    "name": "Curaçao",
+    "country": "Curaçao",
+    "tags": ["beach", "diving", "colorful towns"],
+    "season": ["winter", "spring"],
+    "climate": "tropical semi-arid",
+    "budget_level": "mid",
+    "highlights": ["Willemstad", "Kenepa Beach", "Christoffel National Park"]
+  },
+  {
+    "name": "Barbados",
+    "country": "Barbados",
+    "tags": ["beach", "surfing", "culture"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "mid",
+    "highlights": ["Bathsheba", "Harrison’s Cave", "Bridgetown"]
+  },
+  {
+    "name": "Sardinia",
+    "country": "Italy",
+    "tags": ["beach", "nature", "island"],
+    "season": ["summer", "spring"],
+    "climate": "Mediterranean",
+    "budget_level": "mid",
+    "highlights": ["Costa Smeralda", "Cagliari", "Neptune’s Grotto"]
+  },
+  {
+    "name": "Madrid",
+    "country": "Spain",
+    "tags": ["art", "culture", "urban"],
+    "season": ["spring", "autumn"],
+    "climate": "Mediterranean",
+    "budget_level": "mid",
+    "highlights": ["Prado Museum", "Royal Palace", "Retiro Park"]
+  },
+  {
+    "name": "Tenerife",
+    "country": "Spain",
+    "tags": ["beach", "volcano", "resort"],
+    "season": ["spring", "autumn", "winter"],
+    "climate": "subtropical",
+    "budget_level": "mid",
+    "highlights": ["Teide National Park", "Los Cristianos", "Anaga Mountains"]
+  },
+  {
+    "name": "Florence",
+    "country": "Italy",
+    "tags": ["art", "history", "romantic"],
+    "season": ["spring", "autumn"],
+    "climate": "Mediterranean",
+    "budget_level": "mid",
+    "highlights": ["Uffizi Gallery", "Duomo", "Ponte Vecchio"]
+  },
+  {
+    "name": "Santorini",
+    "country": "Greece",
+    "tags": ["romantic", "island", "sunset"],
+    "season": ["spring", "summer"],
+    "climate": "Mediterranean",
+    "budget_level": "high",
+    "highlights": ["Oia", "Red Beach", "Caldera Hike"]
+  },
+  {
+    "name": "Budapest",
+    "country": "Hungary",
+    "tags": ["history", "thermal baths", "architecture"],
+    "season": ["spring", "autumn"],
+    "climate": "continental",
+    "budget_level": "mid",
+    "highlights": ["Buda Castle", "Széchenyi Baths", "Parliament Building"]
+  },
+  {
+    "name": "Porto",
+    "country": "Portugal",
+    "tags": ["wine", "riverfront", "culture"],
+    "season": ["spring", "autumn"],
+    "climate": "Mediterranean",
+    "budget_level": "mid",
+    "highlights": ["Dom Luís I Bridge", "Livraria Lello", "Ribeira"]
+  },
+  {
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "tags": ["canals", "museums", "bikes"],
+    "season": ["spring", "summer"],
+    "climate": "oceanic",
+    "budget_level": "mid",
+    "highlights": ["Anne Frank House", "Van Gogh Museum", "Canal Cruise"]
+  },
+    {
+    "name": "Dublin",
+    "country": "Ireland",
+    "tags": ["pubs", "history", "literature"],
+    "season": ["spring", "summer"],
+    "climate": "oceanic",
+    "budget_level": "mid",
+    "highlights": ["Trinity College", "Temple Bar", "Guinness Storehouse"]
+  },
+  {
+    "name": "Prague",
+    "country": "Czech Republic",
+    "tags": ["history", "architecture", "romantic"],
+    "season": ["spring", "autumn"],
+    "climate": "continental",
+    "budget_level": "mid",
+    "highlights": ["Charles Bridge", "Old Town Square", "Prague Castle"]
+  },
+  {
+    "name": "Rhodes",
+    "country": "Greece",
+    "tags": ["beach", "medieval", "island"],
+    "season": ["summer", "spring"],
+    "climate": "Mediterranean",
+    "budget_level": "mid",
+    "highlights": ["Old Town", "Lindos", "Palace of the Grand Master"]
+  },
+  {
+    "name": "Island of Malta",
+    "country": "Malta",
+    "tags": ["island", "historic", "coastal"],
+    "season": ["spring", "autumn"],
+    "climate": "Mediterranean",
+    "budget_level": "mid",
+    "highlights": ["Valletta", "Mdina", "Blue Lagoon"]
+  },
+  {
+    "name": "Goreme",
+    "country": "Turkey",
+    "tags": ["caves", "nature", "hot air balloons"],
+    "season": ["spring", "autumn"],
+    "climate": "semi-arid",
+    "budget_level": "mid",
+    "highlights": ["Goreme Open Air Museum", "Cappadocia Valleys", "Balloon Rides"]
+  },
+  {
+    "name": "Krakow",
+    "country": "Poland",
+    "tags": ["history", "architecture", "culture"],
+    "season": ["spring", "summer", "autumn"],
+    "climate": "continental",
+    "budget_level": "low",
+    "highlights": ["Wawel Castle", "Main Market Square", "Auschwitz Memorial (nearby)"]
+  },
+  {
+    "name": "Reykjavik",
+    "country": "Iceland",
+    "tags": ["northern lights", "geothermal", "modern"],
+    "season": ["winter", "spring"],
+    "climate": "subpolar oceanic",
+    "budget_level": "high",
+    "highlights": ["Hallgrímskirkja", "Blue Lagoon", "Golden Circle"]
+  },
+  {
+    "name": "Cabo San Lucas",
+    "country": "Mexico",
+    "tags": ["beach", "resort", "party"],
+    "season": ["winter", "spring"],
+    "climate": "desert",
+    "budget_level": "mid",
+    "highlights": ["El Arco", "Lover’s Beach", "Snorkeling Tours"]
+  },
+  {
+    "name": "Playa del Carmen",
+    "country": "Mexico",
+    "tags": ["beach", "resort", "diving"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "mid",
+    "highlights": ["5th Avenue", "Cenotes", "Xcaret Park"]
+  },
+  {
+    "name": "Puerto Vallarta",
+    "country": "Mexico",
+    "tags": ["beach", "old town", "LGBT-friendly"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "mid",
+    "highlights": ["Malecón", "Zona Romántica", "Los Arcos"]
+  },
+  {
+    "name": "Mexico City",
+    "country": "Mexico",
+    "tags": ["culture", "history", "food"],
+    "season": ["spring", "autumn"],
+    "climate": "subtropical highland",
+    "budget_level": "mid",
+    "highlights": ["Zócalo", "Chapultepec Castle", "Frida Kahlo Museum"]
+  },
+  {
+    "name": "Tulum",
+    "country": "Mexico",
+    "tags": ["beach", "bohemian", "ruins"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "mid",
+    "highlights": ["Tulum Ruins", "Cenotes", "Beach Clubs"]
+  },
+    {
+    "name": "San Miguel de Allende",
+    "country": "Mexico",
+    "tags": ["colonial", "art", "culture"],
+    "season": ["spring", "autumn"],
+    "climate": "semi-arid",
+    "budget_level": "mid",
+    "highlights": ["Parroquia de San Miguel", "Art Galleries", "Jardín Principal"]
+  },
+  {
+    "name": "Punta de Mita",
+    "country": "Mexico",
+    "tags": ["beach", "luxury", "resort"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "high",
+    "highlights": ["Hidden Beach", "Surfing", "Luxury Resorts"]
+  },
+  {
+    "name": "Merida",
+    "country": "Mexico",
+    "tags": ["colonial", "culture", "food"],
+    "season": ["winter", "spring"],
+    "climate": "tropical wet and dry",
+    "budget_level": "low",
+    "highlights": ["Plaza Grande", "Cenotes", "Paseo de Montejo"]
+  },
+  {
+    "name": "Oaxaca",
+    "country": "Mexico",
+    "tags": ["food", "indigenous", "culture"],
+    "season": ["winter", "spring"],
+    "climate": "temperate",
+    "budget_level": "low",
+    "highlights": ["Monte Albán", "Markets", "Mezcal Tasting"]
+  },
+  {
+    "name": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "tags": ["luxury", "culture", "modern"],
+    "season": ["winter", "spring"],
+    "climate": "desert",
+    "budget_level": "high",
+    "highlights": ["Sheikh Zayed Grand Mosque", "Louvre Abu Dhabi", "Corniche"]
+  },
+  {
+    "name": "Cairo",
+    "country": "Egypt",
+    "tags": ["history", "ancient", "city"],
+    "season": ["autumn", "winter", "spring"],
+    "climate": "desert",
+    "budget_level": "low",
+    "highlights": ["Pyramids of Giza", "Egyptian Museum", "Khan el-Khalili"]
+  },
+  {
+    "name": "Luxor",
+    "country": "Egypt",
+    "tags": ["ancient", "temples", "Nile"],
+    "season": ["winter", "spring"],
+    "climate": "desert",
+    "budget_level": "low",
+    "highlights": ["Valley of the Kings", "Karnak Temple", "Luxor Temple"]
+  },
+  {
+    "name": "Muscat",
+    "country": "Oman",
+    "tags": ["coastal", "culture", "mountains"],
+    "season": ["winter", "spring"],
+    "climate": "desert",
+    "budget_level": "mid",
+    "highlights": ["Sultan Qaboos Grand Mosque", "Muttrah Souq", "Royal Opera House"]
+  },
+  {
+    "name": "Doha",
+    "country": "Qatar",
+    "tags": ["modern", "desert", "luxury"],
+    "season": ["winter", "spring"],
+    "climate": "desert",
+    "budget_level": "high",
+    "highlights": ["Museum of Islamic Art", "Souq Waqif", "Corniche"]
+  },
+  {
+    "name": "Petra - Wadi Musa",
+    "country": "Jordan",
+    "tags": ["ancient", "hiking", "desert"],
+    "season": ["spring", "autumn"],
+    "climate": "semi-arid",
+    "budget_level": "mid",
+    "highlights": ["Petra Treasury", "Monastery", "Siq Canyon"]
+  },
+  {
+    "name": "Manama",
+    "country": "Bahrain",
+    "tags": ["modern", "culture", "markets"],
+    "season": ["winter", "spring"],
+    "climate": "desert",
+    "budget_level": "mid",
+    "highlights": ["Bahrain National Museum", "Bab Al Bahrain", "Qal'at al-Bahrain"]
+  },
+  {
+    "name": "Amman",
+    "country": "Jordan",
+    "tags": ["history", "urban", "culture"],
+    "season": ["spring", "autumn"],
+    "climate": "semi-arid",
+    "budget_level": "mid",
+    "highlights": ["Citadel", "Roman Theater", "Rainbow Street"]
+  },
+  {
+    "name": "Riyadh",
+    "country": "Saudi Arabia",
+    "tags": ["modern", "desert", "business"],
+    "season": ["winter", "spring"],
+    "climate": "desert",
+    "budget_level": "mid",
+    "highlights": ["Kingdom Centre", "Masmak Fort", "Edge of the World"]
+  },
+  {
+    "name": "Gramado",
+    "country": "Brazil",
+    "tags": ["alpine", "festive", "romantic"],
+    "season": ["autumn", "winter"],
+    "climate": "temperate",
+    "budget_level": "mid",
+    "highlights": ["Lago Negro", "Rua Coberta", "Mini Mundo"]
+  },
+  {
+    "name": "Lima",
+    "country": "Peru",
+    "tags": ["food", "coastal", "colonial"],
+    "season": ["summer", "autumn"],
+    "climate": "desert coastal",
+    "budget_level": "low",
+    "highlights": ["Miraflores", "Barranco", "Plaza de Armas"]
+  },
+  {
+    "name": "Rio de Janeiro",
+    "country": "Brazil",
+    "tags": ["beach", "festivals", "mountains"],
+    "season": ["summer", "autumn"],
+    "climate": "tropical",
+    "budget_level": "mid",
+    "highlights": ["Christ the Redeemer", "Copacabana", "Sugarloaf Mountain"]
+  },
+  {
+    "name": "Cartagena",
+    "country": "Colombia",
+    "tags": ["colonial", "beach", "culture"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "low",
+    "highlights": ["Old City", "Castillo San Felipe", "Rosario Islands"]
+  },
+  {
+    "name": "Medellin",
+    "country": "Colombia",
+    "tags": ["innovation", "mountains", "culture"],
+    "season": ["dry season", "spring"],
+    "climate": "tropical monsoon",
+    "budget_level": "low",
+    "highlights": ["Comuna 13", "Metrocable", "Botero Plaza"]
+  },
+  {
+    "name": "Bogota",
+    "country": "Colombia",
+    "tags": ["urban", "culture", "museums"],
+    "season": ["dry season", "summer"],
+    "climate": "highland",
+    "budget_level": "low",
+    "highlights": ["La Candelaria", "Gold Museum", "Monserrate"]
+  },
+  {
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "tags": ["tango", "food", "culture"],
+    "season": ["spring", "autumn"],
+    "climate": "temperate",
+    "budget_level": "mid",
+    "highlights": ["La Boca", "Recoleta", "Plaza de Mayo"]
+  },
+  {
+    "name": "Quito",
+    "country": "Ecuador",
+    "tags": ["colonial", "mountains", "culture"],
+    "season": ["dry season", "spring"],
+    "climate": "highland",
+    "budget_level": "low",
+    "highlights": ["Old Town", "Mitad del Mundo", "TelefériQo"]
+  },
+  {
+    "name": "Santiago",
+    "country": "Chile",
+    "tags": ["urban", "mountains", "culture"],
+    "season": ["spring", "autumn"],
+    "climate": "Mediterranean",
+    "budget_level": "mid",
+    "highlights": ["Cerro San Cristóbal", "La Moneda Palace", "Bellavista"]
+  },
+  {
+    "name": "Viti Levu",
+    "country": "Fiji",
+    "tags": ["island", "beach", "nature"],
+    "season": ["winter", "spring"],
+    "climate": "tropical marine",
+    "budget_level": "high",
+    "highlights": ["Coral Coast", "Nadi", "Sigatoka Sand Dunes"]
+  },
+  {
+    "name": "Melbourne",
+    "country": "Australia",
+    "tags": ["culture", "arts", "coffee"],
+    "season": ["spring", "autumn"],
+    "climate": "temperate oceanic",
+    "budget_level": "high",
+    "highlights": ["Federation Square", "Great Ocean Road", "Queen Victoria Market"]
+  },
+  {
+    "name": "Queenstown",
+    "country": "New Zealand",
+    "tags": ["adventure", "mountains", "nature"],
+    "season": ["summer", "autumn"],
+    "climate": "alpine",
+    "budget_level": "high",
+    "highlights": ["Skyline Gondola", "Lake Wakatipu", "Bungee Jumping"]
+  },
+{
+    "name": "Bora Bora",
+    "country": "French Polynesia",
+    "tags": ["island", "luxury", "honeymoon"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "high",
+    "highlights": ["Mount Otemanu", "Lagoon Tours", "Overwater Bungalows"]
+  },
+  {
+    "name": "Sydney",
+    "country": "Australia",
+    "tags": ["urban", "beach", "iconic landmarks"],
+    "season": ["spring", "autumn"],
+    "climate": "temperate",
+    "budget_level": "high",
+    "highlights": ["Sydney Opera House", "Bondi Beach", "Harbour Bridge"]
+  },
+  {
+    "name": "Auckland Central",
+    "country": "New Zealand",
+    "tags": ["urban", "harbor", "culture"],
+    "season": ["summer", "autumn"],
+    "climate": "subtropical",
+    "budget_level": "high",
+    "highlights": ["Sky Tower", "Viaduct Harbour", "Waiheke Island"]
+  },
+  {
+    "name": "Hobart",
+    "country": "Australia",
+    "tags": ["nature", "history", "food"],
+    "season": ["summer", "autumn"],
+    "climate": "oceanic",
+    "budget_level": "mid",
+    "highlights": ["MONA", "Salamanca Market", "Mount Wellington"]
+  },
+  {
+    "name": "Port Douglas",
+    "country": "Australia",
+    "tags": ["reef", "beach", "nature"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "high",
+    "highlights": ["Great Barrier Reef", "Four Mile Beach", "Daintree Rainforest"]
+  },
+  {
+    "name": "Moorea",
+    "country": "French Polynesia",
+    "tags": ["island", "adventure", "scenic"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "high",
+    "highlights": ["Belvedere Lookout", "Lagoon Tours", "Mount Rotui"]
+  },
+  {
+    "name": "Rarotonga",
+    "country": "Cook Islands",
+    "tags": ["island", "relaxation", "culture"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "mid",
+    "highlights": ["Muri Lagoon", "Te Vara Nui Village", "Cross-Island Trek"]
+  },
+  {
+    "name": "Oahu",
+    "country": "USA",
+    "tags": ["island", "surfing", "history"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "high",
+    "highlights": ["Waikiki Beach", "Pearl Harbor", "Diamond Head"]
+  },
+  {
+    "name": "Las Vegas",
+    "country": "USA",
+    "tags": ["entertainment", "nightlife", "casinos"],
+    "season": ["spring", "autumn"],
+    "climate": "desert",
+    "budget_level": "high",
+    "highlights": ["The Strip", "Bellagio Fountains", "Shows & Concerts"]
+  },
+  {
+    "name": "Florida Keys",
+    "country": "USA",
+    "tags": ["beach", "islands", "diving"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "mid",
+    "highlights": ["Key West", "Seven Mile Bridge", "Diving Reefs"]
+  },
+  {
+    "name": "New Orleans",
+    "country": "USA",
+    "tags": ["music", "culture", "festivals"],
+    "season": ["winter", "spring"],
+    "climate": "humid subtropical",
+    "budget_level": "mid",
+    "highlights": ["French Quarter", "Bourbon Street", "Mardi Gras"]
+  },
+  {
+    "name": "Nashville",
+    "country": "USA",
+    "tags": ["music", "southern culture", "food"],
+    "season": ["spring", "autumn"],
+    "climate": "humid subtropical",
+    "budget_level": "mid",
+    "highlights": ["Country Music Hall of Fame", "Broadway", "Ryman Auditorium"]
+  },
+  {
+    "name": "San Francisco",
+    "country": "USA",
+    "tags": ["urban", "tech", "scenic"],
+    "season": ["spring", "autumn"],
+    "climate": "Mediterranean",
+    "budget_level": "high",
+    "highlights": ["Golden Gate Bridge", "Alcatraz", "Fisherman's Wharf"]
+  },
+  {
+    "name": "Chicago",
+    "country": "USA",
+    "tags": ["urban", "architecture", "culture"],
+    "season": ["spring", "summer"],
+    "climate": "humid continental",
+    "budget_level": "mid",
+    "highlights": ["Millennium Park", "Art Institute of Chicago", "Navy Pier"]
+  },
+  {
+    "name": "Charleston",
+    "country": "USA",
+    "tags": ["history", "southern charm", "food"],
+    "season": ["spring", "autumn"],
+    "climate": "humid subtropical",
+    "budget_level": "mid",
+    "highlights": ["Historic District", "Waterfront Park", "Plantations"]
+  },
+  {
+    "name": "Washington DC",
+    "country": "USA",
+    "tags": ["museums", "history", "politics"],
+    "season": ["spring", "autumn"],
+    "climate": "humid subtropical",
+    "budget_level": "mid",
+    "highlights": ["National Mall", "Smithsonian Museums", "Capitol Building"]
+  },
+  {
+    "name": "Maui",
+    "country": "USA",
+    "tags": ["island", "beach", "nature"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "high",
+    "highlights": ["Road to Hana", "Haleakalā National Park", "Lahaina"]
+  },
+  {
+    "name": "Sedona",
+    "country": "USA",
+    "tags": ["desert", "nature", "spiritual"],
+    "season": ["spring", "autumn"],
+    "climate": "semi-arid",
+    "budget_level": "mid",
+    "highlights": ["Red Rock Formations", "Cathedral Rock", "Vortex Sites"]
+  },
+  {
+    "name": "Island of Hawaii",
+    "country": "USA",
+    "tags": ["volcano", "adventure", "beach"],
+    "season": ["winter", "spring"],
+    "climate": "tropical",
+    "budget_level": "high",
+    "highlights": ["Volcanoes National Park", "Mauna Kea", "Kona Coast"]
+  },
+  {
+    "name": "Asheville",
+    "country": "USA",
+    "tags": ["mountains", "art", "beer"],
+    "season": ["spring", "autumn"],
+    "climate": "humid subtropical",
+    "budget_level": "mid",
+    "highlights": ["Blue Ridge Parkway", "Biltmore Estate", "Downtown Arts District"]
+  },
+  {
+    "name": "Mount Desert Island",
+    "country": "USA",
+    "tags": ["nature", "island", "hiking"],
+    "season": ["summer", "autumn"],
+    "climate": "humid continental",
+    "budget_level": "mid",
+    "highlights": ["Acadia National Park", "Bar Harbor", "Cadillac Mountain"]
+  },
+  {
+    "name": "Boston",
+    "country": "USA",
+    "tags": ["history", "education", "urban"],
+    "season": ["spring", "autumn"],
+    "climate": "humid continental",
+    "budget_level": "high",
+    "highlights": ["Freedom Trail", "Fenway Park", "Harvard University"]
+  },
+  {
+    "name": "Miami Beach",
+    "country": "USA",
+    "tags": ["beach", "nightlife", "art deco"],
+    "season": ["winter", "spring"],
+    "climate": "tropical monsoon",
+    "budget_level": "high",
+    "highlights": ["South Beach", "Ocean Drive", "Art Deco District"]
+  },
+  {
+    "name": "Los Angeles",
+    "country": "USA",
+    "tags": ["entertainment", "urban", "beach"],
+    "season": ["spring", "autumn"],
+    "climate": "Mediterranean",
+    "budget_level": "high",
+    "highlights": ["Hollywood", "Santa Monica", "Griffith Observatory"]
+  },
+  {
+    "name": "Moab",
+    "country": "USA",
+    "tags": ["desert", "hiking", "national parks"],
+    "season": ["spring", "autumn"],
+    "climate": "semi-arid",
+    "budget_level": "mid",
+    "highlights": ["Arches National Park", "Canyonlands", "Dead Horse Point"]
+  },
+  {
+    "name": "Seattle",
+    "country": "USA",
+    "tags": ["urban", "coffee", "nature"],
+    "season": ["summer", "autumn"],
+    "climate": "oceanic",
+    "budget_level": "high",
+    "highlights": ["Space Needle", "Pike Place Market", "Mount Rainier Views"]
+  },
+  {
+    "name": "San Diego",
+    "country": "USA",
+    "tags": ["beach", "family", "zoo"],
+    "season": ["spring", "autumn"],
+    "climate": "semi-arid",
+    "budget_level": "high",
+    "highlights": ["Balboa Park", "San Diego Zoo", "La Jolla Cove"]
+  },
+  {
+    "name": "Orlando",
+    "country": "USA",
+    "tags": ["theme parks", "family", "resorts"],
+    "season": ["winter", "spring"],
+    "climate": "humid subtropical",
+    "budget_level": "mid",
+    "highlights": ["Walt Disney World", "Universal Studios", "SeaWorld"]
+  },
+  {
+    "name": "Branson",
+    "country": "USA",
+    "tags": ["entertainment", "family", "shows"],
+    "season": ["spring", "autumn"],
+    "climate": "humid subtropical",
+    "budget_level": "low",
+    "highlights": ["Silver Dollar City", "Live Theaters", "Table Rock Lake"]
+  },
+  {
+    "name": "Austin",
+    "country": "USA",
+    "tags": ["music", "food", "tech"],
+    "season": ["spring", "autumn"],
+    "climate": "humid subtropical",
+    "budget_level": "mid",
+    "highlights": ["Zilker Park", "6th Street", "Barton Springs"]
+  },
+  {
+    "name": "Philadelphia",
+    "country": "USA",
+    "tags": ["history", "urban", "culture"],
+    "season": ["spring", "autumn"],
+    "climate": "humid subtropical",
+    "budget_level": "mid",
+    "highlights": ["Liberty Bell", "Independence Hall", "Philadelphia Museum of Art"]
+  },
+  {
+    "name": "Vancouver",
+    "country": "Canada",
+    "tags": ["nature", "urban", "outdoor"],
+    "season": ["summer", "spring"],
+    "climate": "oceanic",
+    "budget_level": "high",
+    "highlights": ["Stanley Park", "Granville Island", "Capilano Suspension Bridge"]
+  },
+  {
+    "name": "Banff",
+    "country": "Canada",
+    "tags": ["mountains", "nature", "hiking"],
+    "season": ["summer", "winter"],
+    "climate": "subarctic",
+    "budget_level": "mid",
+    "highlights": ["Lake Louise", "Banff National Park", "Sulphur Mountain"]
+  },
+  {
+    "name": "Niagara-on-the-Lake",
+    "country": "Canada",
+    "tags": ["wine", "history", "charm"],
+    "season": ["summer", "autumn"],
+    "climate": "humid continental",
+    "budget_level": "mid",
+    "highlights": ["Wineries", "Shaw Festival", "Historic District"]
+  },
+  {
+    "name": "Montreal",
+    "country": "Canada",
+    "tags": ["culture", "festivals", "food"],
+    "season": ["summer", "autumn"],
+    "climate": "humid continental",
+    "budget_level": "mid",
+    "highlights": ["Old Montreal", "Mount Royal", "Jean-Talon Market"]
+  },
+  {
+    "name": "Nova Scotia",
+    "country": "Canada",
+    "tags": ["coastal", "nature", "heritage"],
+    "season": ["summer", "autumn"],
+    "climate": "humid continental",
+    "budget_level": "mid",
+    "highlights": ["Cape Breton", "Peggy’s Cove", "Cabot Trail"]
+  },
+  {
+    "name": "Quebec City",
+    "country": "Canada",
+    "tags": ["historic", "romantic", "european vibe"],
+    "season": ["summer", "winter"],
+    "climate": "humid continental",
+    "budget_level": "mid",
+    "highlights": ["Old Quebec", "Château Frontenac", "Plains of Abraham"]
+  },
+  {
+    "name": "Whistler",
+    "country": "Canada",
+    "tags": ["skiing", "mountains", "adventure"],
+    "season": ["winter", "summer"],
+    "climate": "subarctic",
+    "budget_level": "high",
+    "highlights": ["Whistler Blackcomb", "Peak 2 Peak Gondola", "Mountain Biking"]
+  },
+  {
+    "name": "Toronto",
+    "country": "Canada",
+    "tags": ["urban", "diverse", "culture"],
+    "season": ["summer", "autumn"],
+    "climate": "humid continental",
+    "budget_level": "high",
+    "highlights": ["CN Tower", "Royal Ontario Museum", "Distillery District"]
+  },
+  {
+    "name": "Mont Tremblant",
+    "country": "Canada",
+    "tags": ["skiing", "mountains", "resort"],
+    "season": ["winter", "summer"],
+    "climate": "humid continental",
+    "budget_level": "mid",
+    "highlights": ["Ski Resort", "Lakes", "Village Shops"]
+  },
+  {
+    "name": "Ottawa",
+    "country": "Canada",
+    "tags": ["capital", "museums", "heritage"],
+    "season": ["spring", "summer"],
+    "climate": "humid continental",
+    "budget_level": "mid",
+    "highlights": ["Parliament Hill", "Rideau Canal", "National Gallery of Canada"]
+  }
+]
